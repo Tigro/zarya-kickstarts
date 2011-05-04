@@ -18,6 +18,9 @@ mc
 # no SL_desktop_tweaks
 -SL_desktop_tweaks
 
+# MLS selinux policy
+selinux-policy-mls
+
 @base
 @basic-desktop
 @cifs-file-server
